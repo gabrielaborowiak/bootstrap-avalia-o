@@ -1,5 +1,11 @@
 body {
     font-size: 16px;
     color: #fff;
-    
+    background-color: #61d4b3;
+    font-family: 'Josefin Slab', serif;
+}
+
+#header-nav {
+    background-color: #fdd365;
+    border: 0;
 }
