@@ -11,6 +11,52 @@ body {
     font-family: 'Josefin Slab', serif;
 }
 
+#Frango h3 {
+      background-color: #fd2eb3;
+      text-align: center;
+      padding: 10px;
+    }
+
+
+#Carne h3 {
+  background-color: #fb8d62;
+  text-align: center;
+  padding: 10px;
+}
+
+#Peixe h3 {
+  background-color: #43d8c9;
+  text-align: center;
+  padding: 10px;
+}
+
+#Frango {
+  text-align: center;
+  background-color: #ffe0ac;
+  padding: 10px;
+  border: 2px #000;
+  margin-top: 5px;
+
+}
+
+#Carne {
+    text-align: center;
+    background-color: #ffe0ac;
+    padding: 10px;
+    border: 2px #000;
+    margin-top: 5px;
+
+  }
+
+#Peixe{
+    text-align: center;
+    background-color: #ffe0ac;
+    padding: 10px;
+    border: 2px #000;
+    margin-top: 5px;
+
+}
+
 .navbar-brand h1 {
     font-family: 'Lora', serif;
     color: #61d4b3;
@@ -109,3 +155,5 @@ body {
       font-size: 1em;
       margin-right: 5px;
     }
+
+   
